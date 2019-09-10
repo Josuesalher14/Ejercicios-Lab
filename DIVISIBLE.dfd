@@ -1,0 +1,62 @@
+ Dfd (c)
+1
+1
+2
+0
+0
+6
+2
+2
+N1
+1
+0
+2
+N2
+1
+0
+4
+1
+21
+'INGRESE DOS NUMEROS'
+5
+1
+5
+N1,N2
+12
+1
+9
+DIVISIBLE
+1
+5
+N1,N2
+1
+2
+1
+9
+DIVISIBLE
+1
+5
+N1,N2
+0
+6
+1
+3
+DIV
+9
+N1 MOD N2
+7
+0
+1
+7
+DIV = 0
+4
+1
+17
+'NO ES DIVISIBLE'
+13
+4
+1
+31
+'ES DIVISIBLE  ',N1,' POR ',N2 
+13
+3
